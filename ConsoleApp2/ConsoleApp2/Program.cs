@@ -35,16 +35,18 @@ namespace ConsoleApp2
             n4 = Console.ReadLine();
             Console.WriteLine(n4 +" "+ n3);
             //Exercicio 2.2//
-            string n5, n6, n7;
+            int n5, n6, n7;
             int multi;
             Console.WriteLine("Introduza 1º valor: ");
-            n5 = Console.ReadLine();
+            n5 = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduza 2º valor: ");
-            n6 = Console.ReadLine();
+            n6 = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduza 3º valor: ");
-            n7 = Console.ReadLine();
+            n7 = int.Parse(Console.ReadLine());
             multi = n5 * n6 * n7;
             Console.WriteLine("A multiplicação dos valores é: " + multi);
+
+
 
 
 

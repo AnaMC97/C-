@@ -1,0 +1,16 @@
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.csproj.AssemblyReference.cache
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.AssemblyInfoInputs.cache
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.AssemblyInfo.cs
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.csproj.CoreCompileInputs.cache
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.exe
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.deps.json
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.runtimeconfig.json
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.runtimeconfig.dev.json
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.dll
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\bin\Debug\net5.0\Aula1_2.pdb
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.dll
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\refint\Aula1_2.dll
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.pdb
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\Aula1_2.genruntimeconfig.cache
+C:\Users\AnaCoelho\Desktop\C#\C-\ConsoleApp2\Aula1_2\obj\Debug\net5.0\ref\Aula1_2.dll

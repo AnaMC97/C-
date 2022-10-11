@@ -18,6 +18,7 @@ namespace ConsoleApp2
             n1 = 5;
             soma = n + n1;
             Console.WriteLine("A soma é: "+soma);
+            //Console.WriteLine("A soma dos números {0} e {1} é igual a");
             Console.WriteLine(" ");
             //Exercicio 1.3//
             Console.WriteLine("Exercicio 1.3");
